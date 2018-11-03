@@ -83,7 +83,9 @@ export const withFormSurvey = Form.create()(
                   message: "Please choose an option"
                 }
               ],
-              initialValue: null
+              initialValue:
+                this.state[this.state.surveyId] &&
+                this.state.surveyId[question.id]
             })(
               <Radio.Group>
                 {/* onChange={e => this.onChange(e, question.id)}> */}
