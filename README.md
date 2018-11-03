@@ -12,15 +12,15 @@
 
 ## Preview
 
-URL: https://survey-app-apiary.netlify.com
+URL: https://survey-app-mock.netlify.com
 
 ## Installation
 
 Install [Node.js](https://nodejs.org/en/), [Git](https://git-scm.com/) and then:
 
 ```sh
-git clone https://github.com/antekai/ct-dal-survey.git survey-app-apiary
-cd survey-app-apiary
+git clone https://github.com/antekai/ct-dal-survey-mock.git survey-app-mock
+cd survey-app-mock
 yarn install
 yarn start
 ```
@@ -86,4 +86,4 @@ src/
 
 ## Support
 
-Please [open an issue](https://github.com/antekai/ct-dal-survey/issues/new) for support.
+Please [open an issue](https://github.com/antekai/ct-dal-survey-mock/issues/new) for support.
