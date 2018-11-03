@@ -1,0 +1,11 @@
+.routesContainer {
+  padding: 24px;
+  background: #fff;
+  min-height: 70vh;
+}
+.mainContainer {
+  margin: 0 30px;
+}
+.footerContainer {
+  text-align: center;
+}
