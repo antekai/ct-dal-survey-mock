@@ -14,9 +14,7 @@ export const Main = ({ surveysData }) => (
       </div>
     </Layout.Content>
 
-    <Layout.Footer className={styles.footerContainer}>
-      Survey-app ©2018 Created by AT
-    </Layout.Footer>
+    <Layout.Footer className={styles.footerContainer}>Survey-app</Layout.Footer>
   </React.Fragment>
 );
 
