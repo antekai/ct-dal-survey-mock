@@ -1,4 +1,4 @@
-# Survey-app-apiary
+# Survey-app-mock
 
 > View and complete surveys.
 
